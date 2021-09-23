@@ -1,4 +1,4 @@
-Arduino MCP2515 CAN interface library
+Arduino MCP2515 CAN interface library - stand by mode added
 ---------------------------------------------------------
 [![Build Status](https://travis-ci.org/autowp/arduino-mcp2515.svg?branch=master)](https://travis-ci.org/autowp/arduino-mcp2515)
 
